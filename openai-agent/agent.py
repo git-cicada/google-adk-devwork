@@ -2,7 +2,6 @@ from dotenv import load_dotenv
 from google.adk.agents import Agent
 from google.adk.models.lite_llm import LiteLlm
 load_dotenv()
-
 myllm = LiteLlm(model="openai/gpt-4o", temperature=0.5)
 
 # The variable name root_agent is required by ADK to discover the agent. Any other name will not work.
