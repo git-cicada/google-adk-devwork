@@ -1,4 +1,4 @@
-# Google ADK for Basics
+# Google ADK Basics
 
 🚀 **Welcome to the comprehensive journey through Google Agent Development Kit (ADK)!**
 
